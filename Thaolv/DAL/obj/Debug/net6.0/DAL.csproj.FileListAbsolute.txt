@@ -1,0 +1,14 @@
+D:\Thaolvph43594_WinForm\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\Thaolvph43594_WinForm\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\Thaolvph43594_WinForm\DAL\bin\Debug\net6.0\DAL.dll
+D:\Thaolvph43594_WinForm\DAL\bin\Debug\net6.0\DAL.pdb
+D:\Thaolvph43594_WinForm\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\Thaolvph43594_WinForm\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thaolvph43594_WinForm\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\Thaolvph43594_WinForm\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\Thaolvph43594_WinForm\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\Thaolvph43594_WinForm\DAL\obj\Debug\net6.0\DAL.dll
+D:\Thaolvph43594_WinForm\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\Thaolvph43594_WinForm\DAL\obj\Debug\net6.0\DAL.pdb
+D:\Thaolvph43594_WinForm\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\Thaolvph43594_WinForm\DAL\obj\Debug\net6.0\ref\DAL.dll
